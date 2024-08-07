@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\CNTT\\C#\\C#4\\PH47185\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|h:\\cntt\\c#\\c#4\\ph47185\\ph47185\\migrations\\20240807095321_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|solutionrelative:ph47185\\migrations\\20240807095321_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|h:\\cntt\\c#\\c#4\\ph47185\\ph47185\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|solutionrelative:ph47185\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|h:\\cntt\\c#\\c#4\\ph47185\\ph47185\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|solutionrelative:ph47185\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|h:\\cntt\\c#\\c#4\\ph47185\\ph47185\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|solutionrelative:ph47185\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|h:\\cntt\\c#\\c#4\\ph47185\\ph47185\\models\\navbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|solutionrelative:ph47185\\models\\navbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|h:\\cntt\\c#\\c#4\\ph47185\\ph47185\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|solutionrelative:ph47185\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|h:\\cntt\\c#\\c#4\\ph47185\\ph47185\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|solutionrelative:ph47185\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|h:\\cntt\\c#\\c#4\\ph47185\\ph47185\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|solutionrelative:ph47185\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|h:\\cntt\\c#\\c#4\\ph47185\\ph47185\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|solutionrelative:ph47185\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|h:\\cntt\\c#\\c#4\\ph47185\\ph47185\\views\\shared\\components\\share\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|solutionrelative:ph47185\\views\\shared\\components\\share\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|h:\\cntt\\c#\\c#4\\ph47185\\ph47185\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|solutionrelative:ph47185\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|h:\\cntt\\c#\\c#4\\ph47185\\ph47185\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|solutionrelative:ph47185\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|h:\\cntt\\c#\\c#4\\ph47185\\ph47185\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC9E014-DA36-4FF8-B6D7-4A61E423B0CA}|PH47185\\PH47185.csproj|solutionrelative:ph47185\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240807095321_add.cs",
+              "DocumentMoniker": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Migrations\\20240807095321_add.cs",
+              "RelativeDocumentMoniker": "PH47185\\Migrations\\20240807095321_add.cs",
+              "ToolTip": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Migrations\\20240807095321_add.cs",
+              "RelativeToolTip": "PH47185\\Migrations\\20240807095321_add.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:01:23.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "PH47185\\Models\\Cart.cs",
+              "ToolTip": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Models\\Cart.cs",
+              "RelativeToolTip": "PH47185\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:01:17.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "PH47185\\Controllers\\CartsController.cs",
+              "ToolTip": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "PH47185\\Controllers\\CartsController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:00:54.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "PH47185\\Controllers\\ProductsController.cs",
+              "ToolTip": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "PH47185\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:57:56.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PH47185\\Views\\_ViewImports.cshtml",
+              "ToolTip": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PH47185\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T09:36:05.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PH47185\\Views\\Home\\Index.cshtml",
+              "ToolTip": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PH47185\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T09:36:02.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PH47185\\Models\\User.cs",
+              "ToolTip": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Models\\User.cs",
+              "RelativeToolTip": "PH47185\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:34:28.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PH47185\\Models\\Product.cs",
+              "ToolTip": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Models\\Product.cs",
+              "RelativeToolTip": "PH47185\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:34:27.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Navbar.cs",
+              "DocumentMoniker": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Models\\Navbar.cs",
+              "RelativeDocumentMoniker": "PH47185\\Models\\Navbar.cs",
+              "ToolTip": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Models\\Navbar.cs",
+              "RelativeToolTip": "PH47185\\Models\\Navbar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:34:26.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "PH47185\\Models\\Category.cs",
+              "ToolTip": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Models\\Category.cs",
+              "RelativeToolTip": "PH47185\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:34:23.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Views\\Shared\\Components\\Share\\Default.cshtml",
+              "RelativeDocumentMoniker": "PH47185\\Views\\Shared\\Components\\Share\\Default.cshtml",
+              "ToolTip": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Views\\Shared\\Components\\Share\\Default.cshtml",
+              "RelativeToolTip": "PH47185\\Views\\Shared\\Components\\Share\\Default.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T09:36:15.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PH47185\\Models\\ErrorViewModel.cs",
+              "ToolTip": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PH47185\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:34:25.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "PH47185\\Controllers\\CategoriesController.cs",
+              "ToolTip": "H:\\CNTT\\C#\\C#4\\PH47185\\PH47185\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "PH47185\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:34:20.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
